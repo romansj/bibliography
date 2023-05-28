@@ -34,14 +34,14 @@
   <!-- Variable containing all necessary data for a certain style of bibliography. -->
   <xsl:variable name="data">
     <general>
-      <stylename>Vancouver LV</stylename>
+      <stylename>Vancouver LV no link</stylename>
       <version>2023.05.03</version>
       <description>An implementation of the Vancouver style.</description>
       <URL></URL>
       <author>Yves Dhondt (yves.dhondt@gmail.com)</author>
       <comments>Modified by Jānis Romāns</comments>
       <display_errors>yes</display_errors>
-      <citation_as_link>yes</citation_as_link>
+      <citation_as_link>no</citation_as_link>
     </general>
     <importantfields>
       <source type="Book">
